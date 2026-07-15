@@ -42,19 +42,18 @@
 
 > ⚠️ Animasi ular ini butuh setup GitHub Action sekali (gratis, otomatis jalan). Caranya ada di bawah instruksi ini.
 
-### 📊 Stats Level
+### 📊 Stats Level (Digenerate Otomatis via GitHub Actions — Anti Broken)
 <p align="center">
-  <img src="https://github-readme-stats-ruby-tau-61.vercel.app/api?username=suppandi11&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-ruby-tau-61.vercel.app/api/top-langs/?username=suppandi11&layout=compact&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/main/github-metrics.svg" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppandi11&theme=synthwave&hide_border=true" />
 </p>
 
-### 🏆 Achievement Unlocked
+### 🗓️ Kalender Kontribusi 3D (Animasi Isometrik)
 <p align="center">
-  <img src="https://github-profile-trophy-nine-drab.vercel.app/?username=suppandi11&theme=onedark&column=6&margin-w=8&margin-h=8&no-frame=true" />
+  <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/main/github-metrics.isocalendar.svg" />
 </p>
 
 ### 💬 Quote Harian (Berubah Setiap Hari Otomatis)
