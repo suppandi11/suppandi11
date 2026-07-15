@@ -1,82 +1,81 @@
-<!-- Header banner animasi bergaya game -->
+<!-- Header banner animasi wave dengan transisi warna modern -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=SUPPANDI11&fontSize=55&fontColor=00ffea&animation=twinkling&fontAlignY=38&desc=Level%20Up%20Your%20Code%20Everyday&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Halo,%20Saya%20Suppandi!&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- Typing animasi bergaya terminal -->
+<!-- Teks mengetik otomatis (animasi typing multidimensi) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFEA&center=true&vCenter=true&width=600&lines=%3E+Loading+Developer.exe...;%3E+Web+Developer+%F0%9F%92%BB;%3E+PHP+%26+Laravel+Enthusiast;%3E+Player+Level%3A+Terus+Belajar+%F0%9F%9A%80;%3E+Mission%3A+Bikin+Kode+Keren" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0072ff&center=true&vCenter=true&width=550&lines=Fullstack+Web+Developer+🚀;PHP+%26+Laravel+Enthusiast+💻;Continuous+Learning+Everyday+✨" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- Badge profil viewer + status -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suppandi11&color=00ffea&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage" />
 </p>
 
 ---
 
-### 🎮 Player Profile
+### 💫 Tentang Saya
 
-```
-┌─────────────────────────────────────┐
-│  NAME    : Suppandi                 │
-│  ROLE    : Web Developer            │
-│  WEAPON  : PHP + Laravel            │
-│  QUEST   : SmartEventPandi          │
-│  STATUS  : Online, Terus Push Kode  │
-└─────────────────────────────────────┘
-```
+Halo! Saya **Suppandi**, seorang Web Developer yang berfokus pada pengembangan aplikasi web modern menggunakan ekosistem PHP dan JavaScript. Saya senang membangun solusi digital yang efisien dan terus mempelajari teknologi baru.
 
-### 🕹️ Tech Stack (Inventory)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,git,github,vscode,figma&theme=dark" />
-</p>
+* 🚀 Sedang fokus mengembangkan proyek **SmartEventPandi**
+* 🌱 Saat ini sedang mendalami **Laravel Ecosystem & Modern JavaScript Frameworks**
+* 💬 Mari berdiskusi tentang **PHP, Laravel, Database, atau Web Development**
+* ⚡ Kutipan favorit: *"Code is like humor. When you have to explain it, it’s bad."*
 
-### 🐍 Snake Kontribusi (Animasi Makan Kotak Commit)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
-> ⚠️ Animasi ular ini butuh setup GitHub Action sekali (gratis, otomatis jalan). Caranya ada di bawah instruksi ini.
+### 🛠️ Tech Stack & Tools
 
-### 📊 Stats Level
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suppandi11&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suppandi11&layout=compact&theme=synthwave&hide_border=true" width="48%" />
-</p>
+Bahasa pemrograman, framework, dan perangkat lunak yang biasa saya gunakan untuk membangun proyek:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppandi11&theme=synthwave&hide_border=true" />
-</p>
-
-### 🏆 Achievement Unlocked
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suppandi11&theme=onedark&column=6&margin-w=8&margin-h=8&no-frame=true" />
-</p>
-
-### 💬 Quote Harian (Berubah Setiap Hari Otomatis)
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/suppndi">
-    <img src="https://img.shields.io/badge/Instagram-@suppndi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6283822124957">
-    <img src="https://img.shields.io/badge/WhatsApp-083822124957-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,tailwind,mysql,git,github,vscode,postman" />
   </a>
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suppandi11&theme=dracula&column=6&margin-w=15&margin-h=15&no-bg=true" alt="suppandi11 Trophies" />
+</p>
+
+---
+
+### 📊 Statistik GitHub & Aktivitas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suppandi11&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suppandi11&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppandi11&theme=tokyonight&hide_border=false" width="97%" />
+</p>
+
+---
+
+### 🌐 Hubungi Saya
+
+Mari berteman dan berkolaborasi! Jangan ragu untuk menyapa saya melalui media sosial di bawah ini:
+
+<p align="center">
+  <a href="https://instagram.com/suppndi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/6283822124957" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+---
 
 <!-- Footer banner animasi -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
 </p>
 
+<!-- Visitor counter dengan gaya minimalis -->
 <p align="center">
-  <i>✨ Thanks for visiting! Jangan lupa follow ya ✨</i>
+  <img src="https://komarev.com/ghpvc/?username=suppandi11&color=0072ff&style=flat-square&label=Profil+Dilihat" alt="Visitor Counter" />
 </p>
