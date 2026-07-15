@@ -43,10 +43,9 @@
 > ⚠️ Animasi ular ini butuh setup GitHub Action sekali (gratis, otomatis jalan). Caranya ada di bawah instruksi ini.
 
 ### 📊 Stats Level
-<!-- GANTI "github-readme-stats.vercel.app" di 2 baris bawah ini dengan domain hasil deploy Vercel-mu sendiri -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suppandi11&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suppandi11&layout=compact&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-ruby-tau-61.vercel.app/api?username=suppandi11&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-ruby-tau-61.vercel.app/api/top-langs/?username=suppandi11&layout=compact&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -54,9 +53,8 @@
 </p>
 
 ### 🏆 Achievement Unlocked
-<!-- GANTI "github-profile-trophy.vercel.app" di baris bawah ini dengan domain hasil deploy Vercel-mu sendiri -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suppandi11&theme=onedark&column=6&margin-w=8&margin-h=8&no-frame=true" />
+  <img src="https://github-profile-trophy-nine-drab.vercel.app/?username=suppandi11&theme=onedark&column=6&margin-w=8&margin-h=8&no-frame=true" />
 </p>
 
 ### 💬 Quote Harian (Berubah Setiap Hari Otomatis)
