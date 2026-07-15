@@ -3,14 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=SUPPANDI11&fontSize=55&fontColor=00ffea&animation=twinkling&fontAlignY=38&desc=Level%20Up%20Your%20Code%20Everyday&descAlignY=58&descSize=20" />
 </p>
 
-<!-- Typing animasi bergaya terminal -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFEA&center=true&vCenter=true&width=600&lines=%3E+Loading+Developer.exe...;%3E+Web+Developer+%F0%9F%92%BB;%3E+PHP+%26+Laravel+Enthusiast;%3E+Player+Level%3A+Terus+Belajar+%F0%9F%9A%80;%3E+Mission%3A+Bikin+Kode+Keren" />
   </a>
 </p>
 
-<!-- Badge profil viewer + status -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suppandi11&color=00ffea&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=statuspage" />
@@ -19,30 +17,17 @@
 ---
 
 ### 🎮 Player Profile
-
-```
-┌─────────────────────────────────────┐
-│  NAME    : Suppandi                 │
-│  ROLE    : Web Developer            │
-│  WEAPON  : PHP + Laravel            │
-│  QUEST   : SmartEventPandi          │
-│  STATUS  : Online, Terus Push Kode  │
-└─────────────────────────────────────┘
-```
-
-### 🕹️ Tech Stack (Inventory)
+### 🕹️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
-### 🐍 Snake Kontribusi (Animasi Makan Kotak Commit)
+### 🐍 Snake Kontribusi
 <p align="center">
   <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ Animasi ular ini butuh setup GitHub Action sekali (gratis, otomatis jalan). Caranya ada di bawah instruksi ini.
-
-### 📊 Stats Level (Digenerate Otomatis via GitHub Actions — Anti Broken)
+### 📊 Stats Level
 <p align="center">
   <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/main/github-metrics.svg" />
 </p>
@@ -51,12 +36,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suppandi11&theme=synthwave&hide_border=true" />
 </p>
 
-### 🗓️ Kalender Kontribusi 3D (Animasi Isometrik)
+### 🗓️ Kalender Kontribusi 3D
 <p align="center">
   <img src="https://raw.githubusercontent.com/suppandi11/suppandi11/main/github-metrics.isocalendar.svg" />
 </p>
 
-### 💬 Quote Harian (Berubah Setiap Hari Otomatis)
+### 💬 Quote Harian
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
@@ -71,7 +56,6 @@
   </a>
 </p>
 
-<!-- Footer banner animasi -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=150&section=footer" />
 </p>
